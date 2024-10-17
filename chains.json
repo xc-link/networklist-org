@@ -43167,7 +43167,8 @@
     "nativeCurrency": {
       "name": "Ethereum",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
     },
     "rpc": [
       "https://sepolia.unichain.org"
@@ -43199,7 +43200,8 @@
     "nativeCurrency": {
       "name": "Ethereum",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
     },
     "rpc": [
       "https://worldchain-mainnet.g.alchemy.com/public"
