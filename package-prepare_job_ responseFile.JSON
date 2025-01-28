@@ -1,0 +1,26 @@
+
+{
+  "state": {
+    "network": "example_network_53269bd575972817b43f7733536b200c",
+    "jobContainer": "82e8219701fe096a35941d869cf3d71af1d943b5d8bdd718857fb87ac3042480",
+    "serviceContainers": {
+      "redis": "60972d9aa486605e66b0dad4abb678dc3d9116f536579e418176eedb8abb9105"
+    }
+  },
+  "context": {
+    "container": {
+      "id": "82e8219701fe096a35941d869cf3d71af1d943b5d8bdd718857fb87ac3042480",
+      "network": "example_network_53269bd575972817b43f7733536b200c"
+    },
+    "services": {
+      "redis": {
+        "id": "60972d9aa486605e66b0dad4abb678dc3d9116f536579e418176eedb8abb9105",
+        "ports": {
+          "8080": "8080"
+        },
+        "network": "example_network_53269bd575972817b43f7733536b200c"
+      }
+    },
+    "isAlpine": true
+  }
+}
