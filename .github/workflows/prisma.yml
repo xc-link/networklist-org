@@ -59,3 +59,4 @@ jobs:
           # The SARIF Log file name is configurable on scan action
           # therefore the file name is best read from the steps output
           sarif_file: ${{ steps.iac-scan.outputs.iac_scan_result_sarif_path }}
+        #20250209
