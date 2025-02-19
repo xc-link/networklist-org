@@ -45,3 +45,4 @@ jobs:
         with:
           sarif_file: hadolint-results.sarif
           wait-for-processing: true
+      #20250219
