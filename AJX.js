@@ -14,9 +14,9 @@ std::string path = skCrypt("").decrypt(); // (OPTIONAL) see tutorial here https:
 
 
 keyauthapp = api(
-    name = "AJX", # App name 
-    ownerid = "o0dHuOg0Bv", # Account ID
-    version = "1.0", # Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
+    name = "AJX", // App name 
+    ownerid = "o0dHuOg0Bv", //Account ID
+    version = "1.0", //Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
     hash_to_check = getchecksum()
 )；
 
@@ -70,16 +70,16 @@ local version = "1.0"; -- Application version. Used for automatic downloads see 
 
 
 KeyAuth.new.Api(
-    "AJX", # App name
-    "o0dHuOg0Bv", # Account ID
-    "2b670f906cdc059bc089d153163adbf35904241f60ad46183902c316cfc6d2d7", # Encryption key, keep hidden and protect this string in your code!
-    "1.0" # Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
+    "AJX", //App name
+    "o0dHuOg0Bv", //Account ID
+    "2b670f906cdc059bc089d153163adbf35904241f60ad46183902c316cfc6d2d7", //Encryption key, keep hidden and protect this string in your code!
+    "1.0" //Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
 )；
 
 
 KeyAuth::Api(
-    "AJX", # App name
-    "o0dHuOg0Bv", # Account ID
-    "2b670f906cdc059bc089d153163adbf35904241f60ad46183902c316cfc6d2d7", # Encryption key, keep hidden and protect this string in your code!
-    "1.0" # Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
+    "AJX", //App name
+    "o0dHuOg0Bv", //Account ID
+    "2b670f906cdc059bc089d153163adbf35904241f60ad46183902c316cfc6d2d7", //Encryption key, keep hidden and protect this string in your code!
+    "1.0" //Application version. Used for automatic downloads see video here https://www.youtube.com/watch?v=kW195PLCBKs
 );
