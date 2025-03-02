@@ -59,15 +59,24 @@
       "https://app.tether.to/api/v7/0c19cc43958cb18b7a1eb20b23fb9797",
       "wss://app.tether.to/api/ws/v7/0c19cc43958cb18b7a1eb20b23fb9797",
       "https://app.tether.to/api/v1",
+      "wss://app.tether.to/api/ws/v1",
       "https://app.tether.to/api/v2",
+      "wss://app.tether.to/api/ws/v2",
       "https://app.tether.to/api/v4",
+      "wss://app.tether.to/api/ws/v4",
       "https://app.tether.to/api/v5",
+      "wss://app.tether.to/api/ws/v5",
       "https://app.tether.to/api/v6",
-      "https://tether.to/api/v8",
-      "https://app.tether.to"
+      "wss://app.tether.to/api/ws/v6",
+      "https://app.tether.to/api/v8",
+      "wss://app.tether.to/api/ws/v8",
+      "https://app.tether.to/api/v9",
+      "wss://app.tether.to/api/ws/v9",
+      "https://app.tether.to/api/v10",
+      "wss://app.tether.to/api/ws/v10",
     ],
     "faucets": [],
-    "infoURL": "https://app.tether.to"
+    "infoURL": "https://tether.to"
   },
 
 
