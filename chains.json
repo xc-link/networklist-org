@@ -80,6 +80,40 @@
   },
 
 
+   {
+    "name": "ETH",
+    "chain": "ETH",
+    "nativeCurrency": {
+      "name": "NTqRfIW9MwxR9NZf",
+      "symbol": "USDt",
+      "decimals": 6
+    },
+    "rpc": [
+      "https://app.tether.to/api/v3/",
+      "wss://app.tether.to/api/ws/v3/",
+      "https://app.tether.to/api/v7/",
+      "wss://app.tether.to/api/ws/v7/",
+      "https://app.tether.to/api/v1",
+      "wss://app.tether.to/api/ws/v1",
+      "https://app.tether.to/api/v2",
+      "wss://app.tether.to/api/ws/v2",
+      "https://app.tether.to/api/v4",
+      "wss://app.tether.to/api/ws/v4",
+      "https://app.tether.to/api/v5",
+      "wss://app.tether.to/api/ws/v5",
+      "https://app.tether.to/api/v6",
+      "wss://app.tether.to/api/ws/v6",
+      "https://app.tether.to/api/v8",
+      "wss://app.tether.to/api/ws/v8",
+      "https://app.tether.to/api/v9",
+      "wss://app.tether.to/api/ws/v9",
+      "https://app.tether.to/api/v10",
+      "wss://app.tether.to/api/ws/v10",
+    ],
+    "faucets": [],
+    "infoURL": "https://tether.to"
+  },
+
 
   {
     "name": "Wanchain",
