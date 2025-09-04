@@ -23,6 +23,7 @@
 # Else you can view the scan results from the project home page in APIsec Platform.
 # The link to view the scan results is also displayed on the console on successful completion of action.
 
+
 # This is a starter workflow to help you get started with APIsec-Scan Actions
 
 name: APIsec
