@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/runtime-deps:6.0 as build
+FROM mcr.microsoft.com/dotnet/runtime-deps:10.0 as build
 
 # Replace value with the latest runner release version
 # source: https://github.com/actions/runner/releases
