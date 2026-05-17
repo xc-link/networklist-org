@@ -6,7 +6,7 @@
       "command": "docker",
       "args": ["run", "-i", "--rm", "--init", "mcp/playwright"],
       "tools": ["*"]
-    }，
+    },
 
       "sentry": {
       "command": "npx",
@@ -20,8 +20,8 @@
         // or refer to a GitHub Actions secret with a name starting with
         // `COPILOT_MCP_`
         "SENTRY_AUTH_TOKEN": "COPILOT_MCP_SENTRY_AUTH_TOKEN"
-      }，
-    }，
+      },
+    },
 
       "notionApi": {
       "command": "docker",
@@ -41,7 +41,7 @@
         "NOTION_API_KEY": "COPILOT_MCP_NOTION_API_KEY"
       },
       "tools": ["*"]
-    }，
+    },
 
       "Azure": {
       "command": "npx",
@@ -52,8 +52,8 @@
         "start"
       ],
         "tools": ["*"]
-    }，
+    },
 
     
-  }，
+  },
 }
