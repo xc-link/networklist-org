@@ -6,7 +6,7 @@
 
 version: 2
 
-enable-beta-ecosystems: true
+enable-beta-ecosystems: false
 
 updates:
 
