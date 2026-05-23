@@ -1,0 +1,44 @@
+[
+  {
+    "type": "user",
+    "url": "https://github.com/github-actions[bot]",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "login": "github-actions[bot]",
+    "name": null,
+    "bio": null,
+    "company": null,
+    "website": null,
+    "location": null,
+    "emails": [
+      {
+        "address": "41898282+github-actions[bot]@users.noreply.github.com",
+        "primary": true,
+        "verified": true
+      }
+    ],
+    "social_accounts": [],
+    "billing_plan": null,
+    "created_at": "2018-07-30T09:30:16Z"
+  },
+  {
+    "type": "user",
+    "url": "https://github.com/dependabot[bot]",
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "login": "dependabot[bot]",
+    "name": null,
+    "bio": null,
+    "company": null,
+    "website": null,
+    "location": null,
+    "emails": [
+      {
+        "address": "49699333+dependabot[bot]@users.noreply.github.com",
+        "primary": true,
+        "verified": true
+      }
+    ],
+    "social_accounts": [],
+    "billing_plan": null,
+    "created_at": "2019-04-16T22:34:25Z"
+  }
+]
