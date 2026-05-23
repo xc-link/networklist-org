@@ -1,0 +1,802 @@
+[
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/General",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/SentenceSimilarity/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/SentenceSimilarity",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/General",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wallet/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/wallet",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/General",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/open-gpu-kernel-modules/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/open-gpu-kernel-modules",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/General",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/track_beidou/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/track_beidou",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/General",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/bds_loc_info_com_protocol/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/bds_loc_info_com_protocol",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/General",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/BD3Monitor/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/BD3Monitor",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/General",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/dockerfiles/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/dockerfiles",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/General",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/docker-goof/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/docker-goof",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/18-networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/18-networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/General",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-cicd-integration-examples/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/snyk-cicd-integration-examples",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/General",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/pysnyk/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/pysnyk",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/General",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/actions/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/actions",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/General",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/snyk-to-sarif/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/snyk-to-sarif",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/General",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/custom/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/custom",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/General",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-builder/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/ruby-builder",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/General",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/ruby-build/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/ruby-build",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/okx-api-arbitrage/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/okx-api-arbitrage",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/okx-api-arbitrage/discussion_categories/General",
+    "repository": "https://github.com/xc-link/okx-api-arbitrage",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/okx-api-arbitrage/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/okx-api-arbitrage",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/okx-api-arbitrage/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/okx-api-arbitrage",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  }
+]

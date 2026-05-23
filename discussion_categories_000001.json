@@ -1,0 +1,802 @@
+[
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/General",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/networklist-org.vercel.app/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/networklist-org.vercel.app",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/General",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/wiki/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/wiki",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/General",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/cryptolens-cpp/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/cryptolens-cpp",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/General",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Protected-Examples/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/Protected-Examples",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/General",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-php/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/NetLicensingClient-php",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/General",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-javascript/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/NetLicensingClient-javascript",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/General",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/Story-Podcast-Dapp/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/Story-Podcast-Dapp",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/68-networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/68-networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/General",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensingClient-csharp/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/NetLicensingClient-csharp",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/adls/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/adls",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/adls/discussion_categories/General",
+    "repository": "https://github.com/xc-link/adls",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/adls/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/adls",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/adls/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/adls",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/General",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/sidekick/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/sidekick",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/General",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/harmony-ipfs/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/harmony-ipfs",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/66-networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/66-networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/General",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/NetLicensing-Zapier/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/NetLicensing-Zapier",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/32-networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/32-networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/Announcements",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "Announcements",
+    "emoji": ":mega:",
+    "description": "Updates from maintainers"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/General",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "General",
+    "emoji": ":speech_balloon:",
+    "description": "Chat about anything and everything here"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/Q%26A",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "Q&A",
+    "emoji": ":pray:",
+    "description": "Ask the community for help"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/Ideas",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "Ideas",
+    "emoji": ":bulb:",
+    "description": "Share ideas for new features"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/Show%20and%20tell",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "Show and tell",
+    "emoji": ":raised_hands:",
+    "description": "Show off something you've made"
+  },
+  {
+    "type": "discussion_category",
+    "url": "https://github.com/xc-link/49-networklist-org/discussion_categories/Polls",
+    "repository": "https://github.com/xc-link/49-networklist-org",
+    "name": "Polls",
+    "emoji": ":ballot_box:",
+    "description": "Take a vote from the community"
+  }
+]
