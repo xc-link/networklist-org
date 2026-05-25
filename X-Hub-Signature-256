@@ -1,0 +1,8 @@
+# Python 示例
+import hmac
+import hashlib
+
+signature = request.headers.get('X-Hub-Signature-256').split('=')[1]
+digest = hmac.new(secret.encode(), request.data, hashlib.sha256).hexdigest()
+if hmac.compare_digest(signature, digest):
+    # 验证通过
